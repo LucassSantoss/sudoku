@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://localhost:8000', // Altere para o endereço do seu servidor
+  baseURL: 'http://localhost:8000',
 });
 
 export const login = async (email, senha) => {

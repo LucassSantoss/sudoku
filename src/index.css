@@ -1,4 +1,3 @@
-/* Reseta estilos padrão do navegador */
 * {
   margin: 0;
   padding: 0;
@@ -22,7 +21,7 @@ body {
   background: #fff;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
-  text-align: center; /* Alinhar conteúdo ao centro */
+  text-align: center;
 }
 
 h1, h2 {
