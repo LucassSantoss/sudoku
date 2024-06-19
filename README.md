@@ -39,7 +39,10 @@ Então use ctrl+click no link que aparecerá no terminal da raiz do projeto
 \
 Caso queira que o envio de emails ao registrar uma nova conta funcione, insira 
 as credenciais do email em um arquivo .env, dentro da pasta server.
-
+\n
+Além disso, para que o cadastro de usuários funcione corretamente, você deverá configurar 
+as credenciais (host, database, username e password) de seu banco de dados no mesmo arquivo .env.
+\n
 4. Como jogar ?
 \
 Primeiramente crie uma conta, e logue no site.
